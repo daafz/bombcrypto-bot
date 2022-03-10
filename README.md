@@ -1,5 +1,9 @@
 # Bombcrypto-bot
 
+##Fork de duas pessoas.
+https://github.com/mpcabete/bombcrypto-bot
+https://github.com/MatheusHAS/bombcrypto-bot
+
 ## Funções extras adicionadas
 
 - Usar browser com zoom diferente (scale)
