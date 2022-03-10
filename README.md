@@ -1,6 +1,6 @@
 # Bombcrypto-bot
 
-##Fork de duas pessoas.
+Fork de duas Pessoas
 https://github.com/mpcabete/bombcrypto-bot
 https://github.com/MatheusHAS/bombcrypto-bot
 
