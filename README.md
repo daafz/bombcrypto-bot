@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ### Pronto! Agora é só iniciar o bot com o comando
 
 ```
-python3 index.py
+python index.py
 ```
 
 ![run](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/run.png)
@@ -67,7 +67,7 @@ Abra o terminal, se ainda não tiver navegado para a pasta do bot dê novamente 
 Para iniciar use o comando 
 
 ```
-python3 index.py
+python index.py
 ```
 
 # Configurações:
