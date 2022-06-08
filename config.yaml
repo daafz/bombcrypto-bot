@@ -49,14 +49,14 @@ threshold:
   #
   # [pt_BR]
   # Valor padrão: 0.7
-  default: 0.7
+  default: 0.6
 
   # [en_US]
   # Default value: 0.8
   #
   # [pt_BR]
   # Valor padrão: 0.8
-  commom: 0.8
+  commom: 0.7
 
   # [en_US]
   # Default value: 0.8
@@ -70,21 +70,21 @@ threshold:
   #
   # [pt_BR]
   # Valor padrão: 0.9
-  go_to_work_btn: 0.9
+  go_to_work_btn: 0.85
 
   # [en_US]
   # Default value: 0.9
   #
   # [pt_BR]
   # Valor padrão: 0.9
-  go_to_work_all_btn: 0.8
+  go_to_work_all_btn: 0.9
 
   # [en_US]
   # Default value: 0.9
   #
   # [pt_BR]
   # Valor padrão: 0.9
-  green_bar: 0.9
+  green_bar: 0.85
 
   # [en_US]
   # Default value: 0.9
@@ -98,21 +98,21 @@ home:
   # If bot is sending the wrong hero home, make this number bigger.
   # if bot is not sending any hero home make this number smaller.
   hero_threshold: 0.80
-  home_button_threshold: 0.90
+  home_button_threshold: 0.8
 
 # [en_US]
 # Default value: 60
 #
 # [pt_BR]
 # Valor padrão: 60
-scroll_size: 60
+scroll_size: 70
 
 # [en_US]
 # Default value: 3
 #
 # [pt_BR]
 # Valor padrão: 3
-scroll_attemps: 4
+scroll_attemps: 5
 
 # [en_US]
 # Default value: true
@@ -126,7 +126,7 @@ use_click_and_drag_instead_of_scroll: true
 #
 # [pt_BR]
 # Valor padrão: 200
-click_and_drag_amount: 200
+click_and_drag_amount: 220
 
 # [en_US]
 # Default value: green
@@ -173,7 +173,7 @@ is_retina_screen: False
 #
 # [pt_BR] Velocidade do movimento do mouse para a automação
 # Valor padrão: 1
-mouse_move_speed: 0.6
+mouse_move_speed: 0.7
 
 scale_image:
   # [en_US] Enable for use different scale on your browser
@@ -195,7 +195,7 @@ scale_image:
   #
   # [pt_BR] Quando a escala está habilitada, especificar o valor de threshold para comparação de imagens
   # Valor padrão: 0.9
-  threshold: 0.9
+  threshold: 0.8
 
 debug:
   # When home feature enable
